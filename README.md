@@ -28,10 +28,6 @@ Reach Me Through
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gwantt&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-#### About me: 
-
-My programming journey really starts in 2019 when I first touched coding. I instantly fell in love with it and decided I would pursue it in my spare time. Since then my passion for programming has only grown. Since I knew this is what I wanted to do in life I started looking at bootcamps and found App Academy to which I applied as soon as I could honestly. One of my better decisions for sure as I have been able to grow as a developer and meet people like myself.
-
 
 
 
