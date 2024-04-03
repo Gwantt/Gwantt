@@ -2,14 +2,6 @@
 
 ### My Name is Grant
 
-Reach Me Through 
-<div id="badges">
-  <a href='https://www.linkedin.com/in/grant-walton-795261235/'>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-   </a>
-</div>
-
-
 ### Some technologies that I use:
 <div id="badges">
   <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' />
